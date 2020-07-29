@@ -16,3 +16,7 @@ git commit -m "Commit done"
 git remote add origin master <link>      // https://github.com/HimeshNayak/godev2Website.git to be done only first time
 git push -u origin master
 ```
+
+```
+git clone <link> // https://github.com/HimeshNayak/godev2Website.git     downloads the repo
+```
