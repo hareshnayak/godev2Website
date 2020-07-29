@@ -2,7 +2,7 @@
 website godev 2.0
 
 
-to use git bash - https://git-scm.org/
+to use git bash - https://git-scm.com/downloads/windows
 
 Create a new folder
 commands
