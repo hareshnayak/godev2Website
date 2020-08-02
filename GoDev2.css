@@ -1,0 +1,101 @@
+body{
+    font-family: Montserrat;
+    text-align: center;
+}
+
+/* Headings */
+h1, h2,h3, h4, h5, h6{
+    font-family: Montserrat-Bold;
+}
+
+.big-heading{
+    font-family: Montserrat-Black;
+    font-weight: 900;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    color: white;
+}
+
+/* Containers */
+.container-fluid{
+    padding: 7% 15%;
+}
+
+/* Sections */
+.coloured-section{
+    background-image: url(https://godev-community.web.app/images/banner.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 100px;
+    /* background-color: purple;
+    color: #FFF; */
+}
+
+.white-section{
+    background-color: #FFF;
+}
+
+/* Title Section */
+#title{
+    text-align: left;
+}
+
+#title .container-fluid{
+    padding: 3% 15% 7% 15%;
+}
+
+.title-image{
+    width: 80%;
+    transform: rotate(-15deg);
+    position: absolute;
+    right: 22%;
+}
+
+.navbar{
+    padding: 0 0 4.5rem 0;
+}
+
+.navbar-brand{
+    font-family: Ubuntu;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.nav-item{
+    padding: 0 18px;
+}
+
+.nav-link{
+    font-family: Montserrat-Light;
+    font-size: 1.2 rem;
+}
+
+.download-button{
+    margin: 5% 3% 5% 0;
+}
+
+/* Features Section */
+#features{
+    position: relative;
+}
+
+#features div div{
+    padding-right: 10%;
+}
+
+.feature-title{
+    font-size: 1.5rem;
+}
+
+#features p{
+    color: #8f8f8f;
+}
+
+#features i{
+    color: #ef72d8;
+    margin-bottom: 1rem;
+}
+
+#features i:hover{
+    color: #d54cff;
+}
