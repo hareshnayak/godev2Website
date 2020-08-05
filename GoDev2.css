@@ -31,6 +31,15 @@ h1, h2,h3, h4, h5, h6{
     color: #FFF; */
 }
 
+.new-coloured-section{
+    /* background-image: url(https://godev-community.web.app/images/banner.jpg); */
+    background-size: cover;
+    background-position: center;
+    padding: 100px;
+    background-color: black;
+    color: #FFF;
+}
+
 .white-section{
     background-color: #FFF;
 }
@@ -98,4 +107,39 @@ h1, h2,h3, h4, h5, h6{
 
 #features i:hover{
     color: #d54cff;
+}
+
+/* Testimonials Sections */
+.testimonial-text{
+    font-size: 2.5rem;
+    line-height: 1.5;
+}
+
+/* .testimonial-image{
+    width: 15%;
+    border-radius: 100%;
+    margin: 20px;
+} */
+
+/* category Section */
+#category{
+    padding: 100px;
+}
+
+.category-column{
+    padding: 3% 2%;
+}
+
+.category-heading{
+    font-size: 3rem;
+    line-height: 1.5; 
+}
+
+.category-text{
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+.card-header{
+    font-size: 1.5rem;
 }
