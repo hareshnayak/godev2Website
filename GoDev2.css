@@ -115,11 +115,10 @@ h1, h2,h3, h4, h5, h6{
     line-height: 1.5;
 }
 
-/* .testimonial-image{
-    width: 15%;
-    border-radius: 100%;
+.testimonial-image{
+    width: 70%;
     margin: 20px;
-} */
+}
 
 /* category Section */
 #category{
@@ -142,4 +141,21 @@ h1, h2,h3, h4, h5, h6{
 
 .card-header{
     font-size: 1.5rem;
+}
+
+/* Footer Section */
+#footer p{
+    color: #8f8f8f;
+    padding-top: 2%;
+}
+
+#footer i{
+    padding: 20px 10px;
+}
+
+/* Media Query */
+@media (max-width: 1045px){
+    #title{
+        text-align: center;
+    }
 }
